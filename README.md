@@ -6,8 +6,8 @@
 
 
 <ul align="left">
-<li>:speech_balloon:Ask me anything: <a href="https://www.linkedin.com/in/kaique-de-souza-moraes/" target="blank">here</a></li>
-<li>:mailbox:How to contact me: <a href="https://www.instagram.com/kaiquesouza.m7/ target="blank">@kaiquesouza.m7</a></li>
+<li>:speech_balloon:Ask me anything: <a href="https://www.linkedin.com/in/kaique-de-souza-moraes/" target=blank">here</a></li>
+<li>:mailbox:How to contact me: <a href="https://www.instagram.com/kaiquesouza.m7/ "target=blank">@kaiquesouza.m7</a></li>
 </ul>
 
 <p align="left">
