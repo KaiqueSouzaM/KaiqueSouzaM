@@ -7,7 +7,7 @@
 
 <ul align="left">
 <li>:speech_balloon:Ask me anything: <a href="https://www.linkedin.com/in/kaique-de-souza-moraes/" target=blank">Linkedin</a></li>
-<li>:mailbox:How to contact me: <a href="https://www.instagram.com/kaiquesouza.m7/ "target=blank">Instagram</a></li>
+<li>:mailbox:How to contact me: <a href="https://www.instagram.com/desouza.m7/"target=blank">Instagram</a></li>
 </ul>
 
 <p align="left">
